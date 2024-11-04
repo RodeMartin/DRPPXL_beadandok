@@ -1,0 +1,7 @@
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\bin\Debug\MaxKivalasztas.exe.config
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\bin\Debug\MaxKivalasztas.exe
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\bin\Debug\MaxKivalasztas.pdb
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\obj\Debug\MaxKivalasztas.csproj.AssemblyReference.cache
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\obj\Debug\MaxKivalasztas.csproj.CoreCompileInputs.cache
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\obj\Debug\MaxKivalasztas.exe
+C:\Git\DRPPXL_beadandok\MaxKivalasztas\MaxKivalasztas\obj\Debug\MaxKivalasztas.pdb
