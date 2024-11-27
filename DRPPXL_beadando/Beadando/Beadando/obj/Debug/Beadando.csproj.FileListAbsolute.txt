@@ -1,0 +1,7 @@
+D:\DRPPXL_beadando\Beadando\Beadando\bin\Debug\Beadando.exe.config
+D:\DRPPXL_beadando\Beadando\Beadando\bin\Debug\Beadando.exe
+D:\DRPPXL_beadando\Beadando\Beadando\bin\Debug\Beadando.pdb
+D:\DRPPXL_beadando\Beadando\Beadando\obj\Debug\Beadando.csproj.AssemblyReference.cache
+D:\DRPPXL_beadando\Beadando\Beadando\obj\Debug\Beadando.csproj.CoreCompileInputs.cache
+D:\DRPPXL_beadando\Beadando\Beadando\obj\Debug\Beadando.exe
+D:\DRPPXL_beadando\Beadando\Beadando\obj\Debug\Beadando.pdb
